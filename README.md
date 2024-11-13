@@ -1,6 +1,7 @@
 # Golang Jazz finder : accessing a relational database
 
-This tutorial introduces the basics of accessing a relational database with Go and the database/sql package in its standard library. The database/sql package I'll be using includes types and functions for connecting to databases, executing transactions, canceling an operation in progress,...
+This project example was done following the tutorial at : **https://go.dev/doc/tutorial/database-access**
+This tutorial introduces the basics of accessing a relational database with Go and the database/sql package in its standard library. The database/sql package I'll be using includes types and functions for connecting to databases, executing transactions, cancelling an operation in progress,...
 
 In this tutorial I learnt to : 
 - Create a folder for my code.
